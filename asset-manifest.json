@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/VacCheckWeb/static/css/main.57acaf92.chunk.css",
-    "main.js": "/VacCheckWeb/static/js/main.e63484ca.chunk.js",
-    "main.js.map": "/VacCheckWeb/static/js/main.e63484ca.chunk.js.map",
+    "main.css": "/VacCheckWeb/static/css/main.d066c4ef.chunk.css",
+    "main.js": "/VacCheckWeb/static/js/main.adc451f8.chunk.js",
+    "main.js.map": "/VacCheckWeb/static/js/main.adc451f8.chunk.js.map",
     "runtime-main.js": "/VacCheckWeb/static/js/runtime-main.993f9a69.js",
     "runtime-main.js.map": "/VacCheckWeb/static/js/runtime-main.993f9a69.js.map",
     "static/css/2.a75f5a2c.chunk.css": "/VacCheckWeb/static/css/2.a75f5a2c.chunk.css",
-    "static/js/2.0a858498.chunk.js": "/VacCheckWeb/static/js/2.0a858498.chunk.js",
-    "static/js/2.0a858498.chunk.js.map": "/VacCheckWeb/static/js/2.0a858498.chunk.js.map",
+    "static/js/2.53e28bf8.chunk.js": "/VacCheckWeb/static/js/2.53e28bf8.chunk.js",
+    "static/js/2.53e28bf8.chunk.js.map": "/VacCheckWeb/static/js/2.53e28bf8.chunk.js.map",
     "index.html": "/VacCheckWeb/index.html",
     "static/css/2.a75f5a2c.chunk.css.map": "/VacCheckWeb/static/css/2.a75f5a2c.chunk.css.map",
-    "static/css/main.57acaf92.chunk.css.map": "/VacCheckWeb/static/css/main.57acaf92.chunk.css.map",
-    "static/js/2.0a858498.chunk.js.LICENSE.txt": "/VacCheckWeb/static/js/2.0a858498.chunk.js.LICENSE.txt",
+    "static/css/main.d066c4ef.chunk.css.map": "/VacCheckWeb/static/css/main.d066c4ef.chunk.css.map",
+    "static/js/2.53e28bf8.chunk.js.LICENSE.txt": "/VacCheckWeb/static/js/2.53e28bf8.chunk.js.LICENSE.txt",
     "static/media/Ellis3.65de6bff.jpeg": "/VacCheckWeb/static/media/Ellis3.65de6bff.jpeg",
+    "static/media/Graphic.5dc96a01.png": "/VacCheckWeb/static/media/Graphic.5dc96a01.png",
     "static/media/Patrick5.6c80cd5f.JPEG": "/VacCheckWeb/static/media/Patrick5.6c80cd5f.JPEG",
     "static/media/Sungwoo.96857479.jpeg": "/VacCheckWeb/static/media/Sungwoo.96857479.jpeg",
     "static/media/Vector1.60106304.svg": "/VacCheckWeb/static/media/Vector1.60106304.svg",
     "static/media/Vector2.fa9ecb65.svg": "/VacCheckWeb/static/media/Vector2.fa9ecb65.svg",
-    "static/media/Vector3.6a42ba3b.svg": "/VacCheckWeb/static/media/Vector3.6a42ba3b.svg",
     "static/media/Vector4.61694e67.svg": "/VacCheckWeb/static/media/Vector4.61694e67.svg",
     "static/media/Yaling.271fd5bd.jpeg": "/VacCheckWeb/static/media/Yaling.271fd5bd.jpeg",
     "static/media/Yudong3.9fc0b28d.jpeg": "/VacCheckWeb/static/media/Yudong3.9fc0b28d.jpeg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.993f9a69.js",
     "static/css/2.a75f5a2c.chunk.css",
-    "static/js/2.0a858498.chunk.js",
-    "static/css/main.57acaf92.chunk.css",
-    "static/js/main.e63484ca.chunk.js"
+    "static/js/2.53e28bf8.chunk.js",
+    "static/css/main.d066c4ef.chunk.css",
+    "static/js/main.adc451f8.chunk.js"
   ]
 }
