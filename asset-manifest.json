@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/VacCheckWeb/static/css/main.eab1e21e.chunk.css",
-    "main.js": "/VacCheckWeb/static/js/main.d76f5603.chunk.js",
-    "main.js.map": "/VacCheckWeb/static/js/main.d76f5603.chunk.js.map",
+    "main.css": "/VacCheckWeb/static/css/main.80277559.chunk.css",
+    "main.js": "/VacCheckWeb/static/js/main.94627edb.chunk.js",
+    "main.js.map": "/VacCheckWeb/static/js/main.94627edb.chunk.js.map",
     "runtime-main.js": "/VacCheckWeb/static/js/runtime-main.993f9a69.js",
     "runtime-main.js.map": "/VacCheckWeb/static/js/runtime-main.993f9a69.js.map",
     "static/css/2.a75f5a2c.chunk.css": "/VacCheckWeb/static/css/2.a75f5a2c.chunk.css",
@@ -10,28 +10,28 @@
     "static/js/2.2d2006f9.chunk.js.map": "/VacCheckWeb/static/js/2.2d2006f9.chunk.js.map",
     "index.html": "/VacCheckWeb/index.html",
     "static/css/2.a75f5a2c.chunk.css.map": "/VacCheckWeb/static/css/2.a75f5a2c.chunk.css.map",
-    "static/css/main.eab1e21e.chunk.css.map": "/VacCheckWeb/static/css/main.eab1e21e.chunk.css.map",
+    "static/css/main.80277559.chunk.css.map": "/VacCheckWeb/static/css/main.80277559.chunk.css.map",
     "static/js/2.2d2006f9.chunk.js.LICENSE.txt": "/VacCheckWeb/static/js/2.2d2006f9.chunk.js.LICENSE.txt",
     "static/media/Ellis3.65de6bff.jpeg": "/VacCheckWeb/static/media/Ellis3.65de6bff.jpeg",
     "static/media/Graphic.5dc96a01.png": "/VacCheckWeb/static/media/Graphic.5dc96a01.png",
     "static/media/GraphicLogin.9c6012e6.png": "/VacCheckWeb/static/media/GraphicLogin.9c6012e6.png",
     "static/media/HPGraphic.c4328f9f.png": "/VacCheckWeb/static/media/HPGraphic.c4328f9f.png",
     "static/media/Patrick5.6c80cd5f.JPEG": "/VacCheckWeb/static/media/Patrick5.6c80cd5f.JPEG",
-    "static/media/Sungwoo.96857479.jpeg": "/VacCheckWeb/static/media/Sungwoo.96857479.jpeg",
+    "static/media/Sungwoo.1ef51779.png": "/VacCheckWeb/static/media/Sungwoo.1ef51779.png",
     "static/media/Vector1.60106304.svg": "/VacCheckWeb/static/media/Vector1.60106304.svg",
     "static/media/Vector2.fa9ecb65.svg": "/VacCheckWeb/static/media/Vector2.fa9ecb65.svg",
     "static/media/Vector4.61694e67.svg": "/VacCheckWeb/static/media/Vector4.61694e67.svg",
     "static/media/VectorLeftCard.60106304.svg": "/VacCheckWeb/static/media/VectorLeftCard.60106304.svg",
     "static/media/VectorSyringe.c1a56608.svg": "/VacCheckWeb/static/media/VectorSyringe.c1a56608.svg",
-    "static/media/Yaling.271fd5bd.jpeg": "/VacCheckWeb/static/media/Yaling.271fd5bd.jpeg",
-    "static/media/Yudong3.9fc0b28d.jpeg": "/VacCheckWeb/static/media/Yudong3.9fc0b28d.jpeg",
-    "static/media/Demo.css": "/VacCheckWeb/static/media/backgroundPic.79481710.png"
+    "static/media/Yaling.d901d45a.png": "/VacCheckWeb/static/media/Yaling.d901d45a.png",
+    "static/media/Demo.css": "/VacCheckWeb/static/media/backgroundPic.79481710.png",
+    "static/media/mockup1.f1413350.png": "/VacCheckWeb/static/media/mockup1.f1413350.png"
   },
   "entrypoints": [
     "static/js/runtime-main.993f9a69.js",
     "static/css/2.a75f5a2c.chunk.css",
     "static/js/2.2d2006f9.chunk.js",
-    "static/css/main.eab1e21e.chunk.css",
-    "static/js/main.d76f5603.chunk.js"
+    "static/css/main.80277559.chunk.css",
+    "static/js/main.94627edb.chunk.js"
   ]
 }
